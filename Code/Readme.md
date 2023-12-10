@@ -55,7 +55,7 @@ This document outlines the process used in `Data_Query.ipynb`, `Data_Processing.
 
 ## Flowchart for Data Query, Processing and Analysis Process
 
-![Data Processing](Dataset.png)
+![Data Processing](Data_Analysis.png)
 
 ## Pseudo-Code for Data Query, Processing and Analysis Process
 ![Code](Code.png)
