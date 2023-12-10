@@ -33,6 +33,8 @@ The dataset includes features such as age, prior count of crimes, length of stay
 | age | priors_count | length_of_stay | c_charge_degree_F | sex_Female | race | risk |
 |-----|--------------|----------------|-------------------|------------|------|------|
 | 40  | 0            | 4              | 1                 | 0          | 1    | 0    |
+| 39  | 0            | 0              | 0                 | 0          | 0    | 1    |
+| 46  | 0            | 37             | 0                 | 0          | 0    | 1    |
 | ... | ...          | ...            | ...               | ...        | ...  | ...  |
 
 **Testing Set:**
@@ -40,6 +42,8 @@ The dataset includes features such as age, prior count of crimes, length of stay
 | age | priors_count | length_of_stay | c_charge_degree_F | sex_Female | race | risk |
 |-----|--------------|----------------|-------------------|------------|------|------|
 | 34  | 0            | 241            | 1                 | 0          | 1    | 1    |
+| 61  | 0            | 1              | 1                 | 1          | 0    | 1    |
+| 24  | 5            | 6              | 1                 | 0          | 1    | 0    |
 | ... | ...          | ...            | ...               | ...        | ...  | ...  |
 
 # Flowchart of Dataset Structure
@@ -47,7 +51,7 @@ The dataset includes features such as age, prior count of crimes, length of stay
 
 # Reference
 
-ProPublica. How we analyzed the compas recidivism algorithm. https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm. Accessed: 2021-01-20.
+ProPublica. How we analyzed the compas recidivism algorithm. https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm. Accessed: 2023-12-1.
 
 ```bibtex
 @misc{ProPublica2016,
@@ -55,6 +59,6 @@ ProPublica. How we analyzed the compas recidivism algorithm. https://www.propubl
   author={ProPublica},
   year={2016},
   howpublished={\url{https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm}},
-  note={Accessed: 2021-01-20}
+  note={Accessed: 2023-12-1}
 }
 
