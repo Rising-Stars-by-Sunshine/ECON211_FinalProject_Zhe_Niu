@@ -12,9 +12,9 @@
 
 ## Application Scenarios:
 ### Judicial Decision-Making: 
-Utilizing LLM-generated explanations in bail classification could significantly impact the judicial system. Courts can use these advanced explanations to better understand the factors influencing bail decisions, leading to more equitable and informed rulings.
+- Utilizing LLM-generated explanations in bail classification could significantly impact the judicial system. Courts can use these advanced explanations to better understand the factors influencing bail decisions, leading to more equitable and informed rulings.
 ### Regulatory Compliance and Transparency: 
-In the context of increasing scrutiny over automated decision-making in the legal system, LLMs' ability to offer clear, comprehensive explanations is invaluable. This aligns with the growing demands for transparency in judicial processes. Courts and legal institutions can leverage these explanations to demonstrate adherence to legal standards and ethical guidelines, which mandate explainability in automated decision-making.
+- In the context of increasing scrutiny over automated decision-making in the legal system, LLMs' ability to offer clear, comprehensive explanations is invaluable. This aligns with the growing demands for transparency in judicial processes. Courts and legal institutions can leverage these explanations to demonstrate adherence to legal standards and ethical guidelines, which mandate explainability in automated decision-making.
 
 ## Methodology:
 ### Data Collection and Preprocessing: 
@@ -34,10 +34,10 @@ In the context of increasing scrutiny over automated decision-making in the lega
 
 ## Results:
 ### Quantitative Analysis of Explanation Fidelity: 
--	The study will present a detailed statistical analysis focusing on the fidelity of LLM-generated explanations compared to traditional post hoc methods. Metrics like FA and RA will measure the alignment of LLM explanations with those from methods like LIME and SHAP, and with the actual influential features of the ML models.
+-	The study will present a detailed statistical analysis focusing on the fidelity of LLM-generated explanations compared to traditional post hoc methods. Metrics like FA and RA will measure the alignment of LLM explanations with those from methods like LIME and SHAP and with the actual influential features of the ML models.
 ### Comparative Insights: 
 -	The study will provide insights comparing the strengths and limitations of LLM-generated explanations relative to traditional methods. This includes evaluating the depth, context sensitivity, and ability to capture nuanced relationships within the data.
--	
+  
 ## Intellectual Merits/Practical Impacts:
 ### Advancement in Explainable AI Methodology: 
 - This research aims to significantly contribute to the field of XAI by empirically evaluating the use of LLMs as innovative post hoc explainers in the context of bail classification using the COMPAS dataset (ProPublica, 2016). By comparing these advanced models with established methods, the study seeks to expand the understanding of LLMs' capabilities in generating interpretable model explanations.
@@ -50,7 +50,7 @@ In the context of increasing scrutiny over automated decision-making in the lega
 
 ## Rationale for Method Choice: 
 -	Traditional methods like LIME and SHAP, while useful, may lack the depth and context needed for complex judicial models. LLMs, with their advanced language capabilities, offer the potential for more nuanced and contextually rich explanations. This method choice aligns with the goal of enhancing transparency and interpretability in judicial decision-making (Guidotti et al., 2018).
--	
+  
 ## Significance of Study: 
 -	The intellectual significance of this study lies in bridging the gap between advanced AI technologies and practical judicial applications, contributing to more transparent and trustworthy AI decisions in the legal system. The practical implications include improved fairness and ethical considerations in judicial decision-making. This research represents a significant step towards ethical and transparent AI systems in critical sectors.
 
