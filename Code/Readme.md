@@ -1,4 +1,4 @@
-# Data Query and Analysis Process
+# Data Query, Processing and Analysis Process
 
 ## Overview
 This document outlines the process used in `Data_Query.ipynb`, `Data_Processing.ipynb`  and `Data_Analysis.ipynb` files for querying, processing, and analyzing the COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) dataset. The dataset contains criminal records and demographic features for defendants and is used to predict recidivism risk.
@@ -53,11 +53,11 @@ This document outlines the process used in `Data_Query.ipynb`, `Data_Processing.
 - Perform additional LIME analysis for varying numbers of samples and features.
 - Calculate and plot FA and RA scores for varying sample sizes.
 
-## Flowchart for Data Query and Processing Process
+## Flowchart for Data Query, Processing and Analysis Process
 
-![Data Processing](Data_Processing.png)
+![Data Processing](Dataset.png)
 
-## Pseudo-Code for Data Query and Processing Process
+## Pseudo-Code for Data Query, Processing and Analysis Process
 ![Code](Code.png)
 
 ```latex
