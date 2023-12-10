@@ -4,33 +4,30 @@ In the context of my research, three critical literature streams are explored to
 
 ### Stream 1: Stream 1: Explainable AI in Judicial Decision-Making
 
-•	Survey Paper: Guidotti et al. (2018) present a thorough survey of methods for explaining black box models. They discuss various post hoc explanation techniques like LIME and SHAP, which are pivotal for enhancing transparency in complex ML models, particularly in sensitive domains like judicial decision-making.
-•	Recent Study: Han (2023) addresses the challenges in evaluating opaque AI algorithms in judicial contexts. The study focuses on the legal implications and the necessity for explainable AI methods to ensure fair and transparent judicial review processes.
-Relationship to My Research
-•	Similarity: My research shares the core objective with Guidotti et al. (2018) and Han (2023) in enhancing the explainability of AI systems, particularly in the judicial domain.
-•	Advancement/Difference: While Guidotti et al. (2018) focus on traditional explanation methods, my research extends this by applying advanced Large Language Models (LLMs) like GPT-3.5 and GPT-4 for generating explanations. This novel approach aims to provide more nuanced and context-aware explanations in judicial decision-making, especially in bail classification using the COMPAS dataset.
+- Survey Paper: Guidotti et al. (2018) present a thorough survey of methods for explaining black box models. They discuss various post hoc explanation techniques like LIME and SHAP, which are pivotal for enhancing transparency in complex ML models, particularly in sensitive domains like judicial decision-making.
+- Recent Study: Han (2023) addresses the challenges in evaluating opaque AI algorithms in judicial contexts. The study focuses on the legal implications and the necessity for explainable AI methods to ensure fair and transparent judicial review processes.
+- Similarity: My research shares the core objective with Guidotti et al. (2018) and Han (2023) in enhancing the explainability of AI systems, particularly in the judicial domain.
+- Advancement/Difference: While Guidotti et al. (2018) focus on traditional explanation methods, my research extends this by applying advanced Large Language Models (LLMs) like GPT-3.5 and GPT-4 for generating explanations. This novel approach aims to provide more nuanced and context-aware explanations in judicial decision-making, especially in bail classification using the COMPAS dataset.
 
 
 ### Stream 2: Application of LLMs in Interpretability
 
-•	Survey Paper: Zhu et al. (2023) delve into the integration of Large Language Models with information retrieval systems, highlighting the interpretability aspect of these models.
-•	Recent Study: Kroeger et al. (2023) explore the use of LLMs in enhancing machine learning interpretability. They investigate how LLMs like GPT-3.5 and GPT-4 can be leveraged to provide better understanding and explanations of ML model decisions.
-Relationship to My Research
-•	Similarity: Similar to Zhu et al. (2023) and Kroeger et al. (2023), my research utilizes the interpretability capabilities of LLMs.
-•	Advancement/Difference: My study specifically applies LLMs to interpret and explain decisions in the judicial context, particularly focusing on the COMPAS dataset for bail classification. This application in a judicial setting represents a unique contribution, extending the current understanding of LLMs' interpretability in a domain that has significant societal implications.
+- Survey Paper: Zhu et al. (2023) delve into the integration of Large Language Models with information retrieval systems, highlighting the interpretability aspect of these models.
+- Recent Study: Kroeger et al. (2023) explore the use of LLMs in enhancing machine learning interpretability. They investigate how LLMs like GPT-3.5 and GPT-4 can be leveraged to provide better understanding and explanations of ML model decisions.
+- Similarity: Similar to Zhu et al. (2023) and Kroeger et al. (2023), my research utilizes the interpretability capabilities of LLMs.
+- Advancement/Difference: My study specifically applies LLMs to interpret and explain decisions in the judicial context, particularly focusing on the COMPAS dataset for bail classification. This application in a judicial setting represents a unique contribution, extending the current understanding of LLMs' interpretability in a domain that has significant societal implications.
 
 
 ### Stream 3: Comparative Studies of Explanation Methods in ML
 
-•	Survey Paper: Zhou et al. (2021) provide a comprehensive overview of methods for evaluating the quality of ML explanations. They discuss various metrics and approaches to assess the effectiveness of explanation methods.
-•	Recent Study: Stenwig et al. (2022) conduct a comparative analysis of explainable ML prediction models in the healthcare sector. They compare different post hoc explanation methods to evaluate their effectiveness in a high-stakes domain.
-Relationship to My Research
-•	Similarity: My research aligns with Zhou et al. (2021) and Stenwig et al. (2022) in the comparative analysis of explanation methods.
-•	Advancement/Difference: Unlike these studies, my research contrasts the effectiveness of LLM-generated explanations with traditional methods in the judicial domain. By employing metrics like Feature Agreement (FA) and Rank Agreement (RA), my study assesses the fidelity and interpretability of LLM-generated explanations in the context of bail classification using the COMPAS dataset.
+- Survey Paper: Zhou et al. (2021) provide a comprehensive overview of methods for evaluating the quality of ML explanations. They discuss various metrics and approaches to assess the effectiveness of explanation methods.
+- Recent Study: Stenwig et al. (2022) conduct a comparative analysis of explainable ML prediction models in the healthcare sector. They compare different post hoc explanation methods to evaluate their effectiveness in a high-stakes domain.
+- Similarity: My research aligns with Zhou et al. (2021) and Stenwig et al. (2022) in the comparative analysis of explanation methods.
+- Advancement/Difference: Unlike these studies, my research contrasts the effectiveness of LLM-generated explanations with traditional methods in the judicial domain. By employing metrics like Feature Agreement (FA) and Rank Agreement (RA), my study assesses the fidelity and interpretability of LLM-generated explanations in the context of bail classification using the COMPAS dataset.
 
 ### Conclusion
 
-My research intersects and extends these literature streams by applying LLMs for generating explanations in judicial decision-making, particularly in bail classification using the COMPAS dataset. It builds upon existing literature by introducing a novel approach to explainability using LLMs and contributes through a comparative analysis of different explanation methods. This approach not only advances the understanding and application of AI in judicial contexts but also offers a new perspective on the interpretability and explainability of AI-driven decisions in this critical domain. My research stands out in its innovative use of LLMs, providing a fresh lens through which the complexities of judicial decision-making can be understood and explained.
+- My research intersects and extends these literature streams by applying LLMs for generating explanations in judicial decision-making, particularly in bail classification using the COMPAS dataset. It builds upon existing literature by introducing a novel approach to explainability using LLMs and contributes through a comparative analysis of different explanation methods. This approach not only advances the understanding and application of AI in judicial contexts but also offers a new perspective on the interpretability and explainability of AI-driven decisions in this critical domain. My research stands out in its innovative use of LLMs, providing a fresh lens through which the complexities of judicial decision-making can be understood and explained.
 
 ### Flowchart
 
