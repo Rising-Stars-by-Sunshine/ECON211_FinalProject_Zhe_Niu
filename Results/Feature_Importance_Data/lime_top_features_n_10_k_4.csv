@@ -1,0 +1,11 @@
+,0,1,2,3
+4151,priors_count,age,race,length_of_stay
+4755,age,priors_count,race,length_of_stay
+2907,priors_count,race,length_of_stay,age
+1402,length_of_stay,priors_count,race,c_charge_degree_F
+1305,age,race,length_of_stay,c_charge_degree_F
+3756,age,priors_count,race,length_of_stay
+3563,age,priors_count,race,c_charge_degree_F
+3516,age,length_of_stay,priors_count,race
+3641,age,priors_count,race,length_of_stay
+3385,age,length_of_stay,race,priors_count

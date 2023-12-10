@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,age,priors_count,length_of_stay,c_charge_degree_F,sex_Female
+1,priors_count,c_charge_degree_F,sex_Female,age,length_of_stay
+2,age,priors_count,length_of_stay,c_charge_degree_F,sex_Female
+3,length_of_stay,age,priors_count,c_charge_degree_F,race
+4,age,priors_count,length_of_stay,c_charge_degree_F,sex_Female
+5,age,priors_count,length_of_stay,c_charge_degree_F,sex_Female
+6,length_of_stay,age,priors_count,c_charge_degree_F,race
+7,age,priors_count,length_of_stay,c_charge_degree_F,race
+8,age,priors_count,length_of_stay,c_charge_degree_F,race
+9,age,priors_count,length_of_stay,c_charge_degree_F,race
+10,age,priors_count,sex_Female,length_of_stay,race
+11,age,priors_count,length_of_stay,c_charge_degree_F,sex_Female
+12,age,priors_count,length_of_stay,c_charge_degree_F,race
+13,age,priors_count,length_of_stay,c_charge_degree_F,race
+14,age,priors_count,length_of_stay,c_charge_degree_F,sex_Female

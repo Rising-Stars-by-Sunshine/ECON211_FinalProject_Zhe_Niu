@@ -1,0 +1,11 @@
+,0,1,2
+0,race,age,priors_count
+1,age,priors_count,length_of_stay
+2,age,length_of_stay,priors_count
+3,age,priors_count,length_of_stay
+4,age,priors_count,length_of_stay
+5,age,priors_count,length_of_stay
+6,age,length_of_stay,race
+7,age,priors_count,length_of_stay
+8,length_of_stay,age,priors_count
+9,age,length_of_stay,priors_count

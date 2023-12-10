@@ -1,0 +1,11 @@
+,0,1,2,3
+0,age,priors_count,length_of_stay,sex_Female
+1,age,priors_count,length_of_stay,sex_Female
+2,age,priors_count,length_of_stay,c_charge_degree_F
+3,age,priors_count,length_of_stay,race
+4,length_of_stay,priors_count,age,sex_Female
+5,age,priors_count,length_of_stay,race
+6,age,priors_count,length_of_stay,c_charge_degree_F
+7,priors_count,age,length_of_stay,c_charge_degree_F
+8,age,priors_count,length_of_stay,c_charge_degree_F
+9,age,race,priors_count,length_of_stay

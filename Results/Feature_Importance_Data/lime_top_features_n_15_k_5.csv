@@ -1,0 +1,16 @@
+,0,1,2,3,4
+4151,priors_count,age,race,length_of_stay,c_charge_degree_F
+4755,age,priors_count,race,length_of_stay,c_charge_degree_F
+2907,priors_count,race,length_of_stay,age,c_charge_degree_F
+1402,length_of_stay,priors_count,race,c_charge_degree_F,age
+1305,age,race,length_of_stay,c_charge_degree_F,priors_count
+3756,age,priors_count,race,length_of_stay,c_charge_degree_F
+3563,age,priors_count,race,c_charge_degree_F,length_of_stay
+3516,age,length_of_stay,priors_count,race,c_charge_degree_F
+3641,age,priors_count,race,length_of_stay,c_charge_degree_F
+3385,age,length_of_stay,race,priors_count,c_charge_degree_F
+1059,age,race,priors_count,length_of_stay,c_charge_degree_F
+181,priors_count,length_of_stay,race,c_charge_degree_F,age
+4348,priors_count,race,length_of_stay,age,c_charge_degree_F
+3505,priors_count,race,length_of_stay,age,c_charge_degree_F
+2764,priors_count,length_of_stay,race,c_charge_degree_F,age
