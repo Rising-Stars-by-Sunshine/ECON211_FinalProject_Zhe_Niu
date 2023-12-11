@@ -1,9 +1,6 @@
 # Results Analysis
 
 ## Overview
-
-## Overview
-
 This section of the repository provides a detailed examination of the results obtained from our investigation into the efficacy of Language Model-based (LLM) post hoc explainers. Utilizing the COMPAS dataset, we explore the accuracy and reliability of LLMs in generating post hoc explanations for machine learning model predictions.   We present a comparative analysis involving two leading explanation methods, SHAP and LIME, against the emerging LLM-GPT-3.5 approach. Our investigation revolves around two pivotal research questions that seek to understand the capabilities of LLMs in the context of bail classification decisions.   To address these questions, we employ Average Feature Agreement (FA) and Average Rank Agreement (RA) as our primary metrics.   The results are visualized in two key figures, 'Performance_Score.png' and 'Performance_Score_parameter.png', which highlight the impact of sample size and top K features on the explanation fidelity.
 
 
