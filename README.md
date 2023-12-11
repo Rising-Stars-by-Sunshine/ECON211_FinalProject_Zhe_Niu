@@ -65,7 +65,7 @@ The `Code` section of this project meticulously details the procedures implement
 
 The `Results` section presents a thorough analysis of the efficacy of Language Model-based (LLM) post hoc explainers, particularly LLM-GPT-3.5, in comparison to SHAP and LIME, using the COMPAS dataset. Focused on understanding LLMs' capability in generating post hoc explanations for bail classification decisions, the research employs Average Feature Agreement (FA) and Average Rank Agreement (RA) as primary metrics. The results, illustrated in figures 'Performance_Score.png' and 'Performance_Score_parameter.png', reveal the impact of sample size and top K features on explanation fidelity. Key findings include LLM-GPT-3.5's commendable accuracy in identifying important features, although it exhibits variability and lower reliability in ranking them compared to SHAP and LIME. The analysis answers two critical questions: LLMs show potential in providing accurate explanations but still require refinement for consistency and reliability. While LLMs demonstrate potential, especially with fewer top features, SHAP and LIME maintain superior performance in feature identification and ranking, confirming their robustness as post hoc explainers in the field of explainable AI.
 
-## Spotlight
+## Spotlights
 
 ### Project Poster
 ![Poster](Econ211_Zhe_Niu_Poster.png)
@@ -84,8 +84,35 @@ I have presented my research and the poster during the class. More research deta
 
 ### Review Articles
 
+In the `Literature` section, we explore three critical literature streams to understand the existing and emerging paradigms in Explainable AI (XAI), particularly in the context of bail classification and Large Language Models (LLMs). The review covers:
+
+1. **Explainable AI in Judicial Decision-Making**: Focuses on methods like LIME and SHAP, highlighting their importance in enhancing transparency in complex ML models in sensitive domains like judicial decision-making.
+2. **Application of LLMs in Interpretability**: Investigates the integration of LLMs with information retrieval systems, emphasizing the interpretability aspect of these models.
+3. **Comparative Studies of Explanation Methods in ML**: Discusses methods for evaluating the quality of ML explanations, comparing various post hoc explanation methods, particularly in high-stakes domains.
+
+Each stream presents unique insights and sets the foundation for understanding how LLMs can enhance explainability in judicial contexts, contributing new perspectives and methodologies to the field.
+
+### Media Appearance
+
+The inspiration for this research project stems from a growing interest in the potential of Large Language Models (LLMs) as post hoc explainers, as highlighted in recent academic discourse, including a notable paper on Papers with Code titled "Are Large Language Models Post-hoc Explainers?" This paper paves the way for further exploration into the capabilities of LLMs in the domain of Explainable AI (XAI). Recognizing the significance of this emerging area of study, our research aims to contribute to the collective development of LLM applications in XAI. The hope is that this project will not only add to the academic understanding of LLMs as explainers but also encourage more researchers to delve into the exploration and development of LLMs within XAI. This collaborative effort can significantly advance the field, bringing new insights and advancements in making AI more transparent and understandable.
 
 
 ## More-About-the-Author
 
+### Headshot
+
+![profile](nz_profile.png)
+
+### Self-introduction
+
+Zhe Niu is a Bachelor of Science in Data Science student at Duke Kunshan University, with an expected graduation in June 2024. He has interned in various prestigious firms in investment management, research, and investment banking sectors in China. His work includes research in the Integrated Circuit industry and equity market analysis. Zhe has co-authored papers for international conferences and led innovative projects like developing an AI-based app for COVID-19 diagnosis. He is skilled in Python, Java, and various data analysis tools, and is fluent in Chinese and English. Zhe's hobbies include music, basketball, and Texas Hold'em.
+
+### Final Reflections
+- Intellectual Growth
+  
+- Professional Growth
+  
+- Living a Purposeful Life
+  
 ## References
+- Literature References in APA Author-Date Style and BibTex
