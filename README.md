@@ -22,13 +22,11 @@ Our study is structured around two pivotal research questions that drive the exp
 ![GPT_Answer_Q1](GPT_Answer_1.png)
 ![GPT_Answer_Q2](GPT_Answer_2.png)
 
-- **Application Scenario (Data Source)**:
+- [Application Scenario](./Method/)
+- [Methodology](./Method/Methodology)
+- [Results](./Method/Results)
+- [Results](./Method/)
 
-- **Methodology**:
-  
-- **Results**:
-
-- **Intellectual Merits and Practical impacts**:
   
 ## Table of Contents
 - [Literature](./Literature/)
@@ -36,7 +34,7 @@ Our study is structured around two pivotal research questions that drive the exp
 - [Data](./Data/)
 - [Code](./Code/)
 - [Results](./Results/)
-- [Spotlight](./Spotlight/)
+- [Spotlights](./Spotlights/)
 - [More About the Author](##More-About-the-Author)
 - [References](##References)
 
