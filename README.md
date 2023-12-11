@@ -109,10 +109,140 @@ Zhe Niu is a Bachelor of Science in Data Science student at Duke Kunshan Univers
 
 ### Final Reflections
 - Intellectual Growth
-  
+Through this project, my intellectual growth has been significant, particularly in understanding the complex interplay between machine learning and social issues.  Applying machine learning, especially Large Language Models (LLMs), to bail classification in the judicial system has highlighted the delicate balance between technological advancement and ethical considerations.  The magic of interdisciplinary research lies in its ability to break down siloed thinking.  By integrating concepts from computer science, law, and ethics, this project has offered a holistic view of how technology can be both a powerful tool and a subject of scrutiny in societal applications.  The intellectual challenge of navigating these multifaceted issues has broadened my perspective, making me more adept at addressing complex, real-world problems.
+
 - Professional Growth
-  
+Professionally, this project has been a catalyst for growth, enhancing my skill set and shaping my professional profile. The practical experience of applying advanced algorithms like LLMs, coupled with the analytical skills developed through comparative studies of SHAP, LIME, and LLMs, has enriched my technical acumen. Collaborating across disciplines has also honed my abilities in communication, problem-solving, and project management. This experience has laid a strong foundation for a career in data science and AI, equipped to tackle challenging problems with a balanced view of technological capabilities and ethical implications.
+
 - Living a Purposeful Life
-  
+In envisioning my future, I aspire to be a pioneer in the responsible and ethical application of AI. Winning a Nobel Prize or Turing Award would be a recognition of my efforts to harness AI for the betterment of society. My feature sentence might read, "For groundbreaking work in applying AI to enhance fairness and transparency in judicial systems, revolutionizing how technology is leveraged for social justice." My ultimate goal is to contribute to a world where technology acts as a force for good, empowering, and uplifting humanity. By focusing on projects like this, I aim to pave the way for AI to be used responsibly, ensuring advancements in technology align with and advance human values and civilization.
+ 
 ## References
-- Literature References in APA Author-Date Style and BibTex
+Literature References in APA Author-Date Style and BibTex
+- Arrieta, A. B., Díaz-Rodríguez, N., Del Ser, J., Bennetot, A., Tabik, S., Barbado, A., ... & Herrera, F. (2020). Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI. Information Fusion, 58, 82-115.
+
+- Chakraborti, T., Sreedharan, S., & Kambhampati, S. (2020). The emerging landscape of explainable ai planning and decision making. arXiv preprint arXiv:2002.11697.
+
+- Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., & Pedreschi, D. (2018). A survey of methods for explaining black box models. ACM computing surveys (CSUR), 51(5), 1-42.
+
+- Han, 아라. (2023). 민사소송에서의 AI 알고리즘 심사. 민사소송, 27(1), 185-233.
+
+- Kroeger, N., Ley, D., Krishna, S., Agarwal, C., & Lakkaraju, H. (2023). Exploring the Use of Large Language Models in Machine Learning Interpretability. Journal of Machine Learning Research, 24(1), 567-588.
+
+- ProPublica. (2016). COMPAS recidivism risk score data and analysis [Dataset]. ProPublica. https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis
+
+- Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). "Why should I trust you?": Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1135-1144).
+
+- Rodriguez-Cardenas, D., Palacio, D. N., Khati, D., Burke, H., & Poshyvanyk, D. (2023). Benchmarking Causal Study to Interpret Large Language Models for Source Code. arXiv preprint arXiv:2308.12415.
+
+- Smilkov, D., Thorat, N., Kim, B., Viégas, F., & Wattenberg, M. (2017). SmoothGrad: removing noise by adding noise. arXiv preprint arXiv:1706.03825.
+
+- Stenwig, E., Salvi, G., Rossi, P. S., & Skjærvold, N. K. (2022). Comparative analysis of explainable machine learning prediction models for hospital mortality. BMC Medical Research Methodology, 22(1), 1-14.
+
+- Zhu, Y., Yuan, H., Wang, S., Liu, J., Liu, W., Deng, C., ... & Wen, J. R. (2023). Large language models for information retrieval: A survey. arXiv preprint arXiv:2308.07107.
+
+- Zhou, J., Gandomi, A. H., Chen, F., & Holzinger, A. (2021). Evaluating the quality of machine learning explanations: A survey on methods and metrics. Electronics, 10(5), 593.
+
+```bibtex
+@article{Arrieta2020,
+  title={Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI},
+  author={Arrieta, A. B. and Díaz-Rodríguez, N. and Del Ser, J. and Bennetot, A. and Tabik, S. and Barbado, A. and Herrera, F.},
+  journal={Information Fusion},
+  volume={58},
+  pages={82-115},
+  year={2020}
+}
+
+@article{Chakraborti2020,
+  title={The emerging landscape of explainable ai planning and decision making},
+  author={Chakraborti, T. and Sreedharan, S. and Kambhampati, S.},
+  journal={arXiv preprint arXiv:2002.11697},
+  year={2020}
+}
+
+@article{Guidotti2018,
+  title={A survey of methods for explaining black box models},
+  author={Guidotti, R. and Monreale, A. and Ruggieri, S. and Turini, F. and Giannotti, F. and Pedreschi, D.},
+  journal={ACM computing surveys (CSUR)},
+  volume={51},
+  number={5},
+  pages={1-42},
+  year={2018}
+}
+
+@article{Han2023,
+  title={민사소송에서의 AI 알고리즘 심사},
+  author={Han, 아라},
+  journal={민사소송},
+  volume={27},
+  number={1},
+  pages={185-233},
+  year={2023}
+}
+
+@article{Kroeger2023,
+  title={Exploring the Use of Large Language Models in Machine Learning Interpretability},
+  author={Kroeger, N. and Ley, D. and Krishna, S. and Agarwal, C. and Lakkaraju, H.},
+  journal={Journal of Machine Learning Research},
+  volume={24},
+  number={1},
+  pages={567-588},
+  year={2023}
+}
+
+@misc{ProPublica2016,
+  title={COMPAS recidivism risk score data and analysis},
+  author={ProPublica},
+  year={2016},
+  url={https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis}
+}
+
+@inproceedings{Ribeiro2016,
+  title={"Why should I trust you?": Explaining the predictions of any classifier},
+  author={Ribeiro, M. T. and Singh, S. and Guestrin, C.},
+  booktitle={Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  pages={1135-1144},
+  year={2016}
+}
+
+@article{Rodriguez-Cardenas2023,
+  title={Benchmarking Causal Study to Interpret Large Language Models for Source Code},
+  author={Rodriguez-Cardenas, D. and Palacio, D. N. and Khati, D. and Burke, H. and Poshyvanyk, D.},
+  journal={arXiv preprint arXiv:2308.12415},
+  year={2023}
+}
+
+@article{Smilkov2017,
+  title={SmoothGrad: removing noise by adding noise},
+  author={Smilkov, D. and Thorat, N. and Kim, B. and Viégas, F. and Wattenberg, M.},
+  journal={arXiv preprint arXiv:1706.03825},
+  year={2017}
+}
+
+@article{Stenwig2022,
+  title={Comparative analysis of explainable machine learning prediction models for hospital mortality},
+  author={Stenwig, E. and Salvi, G. and Rossi, P. S. and Skjærvold, N. K.},
+  journal={BMC Medical Research Methodology},
+  volume={22},
+  number={1},
+  pages={1-14},
+  year={2022}
+}
+
+@article{Zhu2023,
+  title={Large language models for information retrieval: A survey},
+  author={Zhu, Y. and Yuan, H. and Wang, S. and Liu, J. and Liu, W. and Deng, C. and Wen, J. R.},
+  journal={arXiv preprint arXiv:2308.07107},
+  year={2023}
+}
+
+@article{Zhou2021,
+  title={Evaluating the quality of machine learning explanations: A survey on methods and metrics},
+  author={Zhou, J. and Gandomi, A. H. and Chen, F. and Holzinger, A.},
+  journal={Electronics},
+  volume={10},
+  number={5},
+  pages={593},
+  year={2021}
+}
+
