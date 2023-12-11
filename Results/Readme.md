@@ -77,5 +77,5 @@ The 'Performance_Score_parameter.png' figure presents line graphs that explore h
 - Therefore, while LLMs are a promising avenue for generating explanations for ML model predictions, there is a clear need for further research and development to refine their application. This will ensure that LLMs not only maintain high accuracy when identifying key features but also improve in consistently ranking them, ultimately achieving a level of faithfulness on par with or exceeding current methods.
 
 ## Flowchart of Question-Method-Result
-![Question-Method-Result](Flowchart of Question-Method-Result.png)
+![Question-Method-Result](Question-Method-Result.png)
 
