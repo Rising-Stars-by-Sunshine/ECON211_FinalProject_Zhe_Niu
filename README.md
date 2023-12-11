@@ -118,6 +118,13 @@ Professionally, this project has been a catalyst for growth, enhancing my skill 
 In envisioning my future, I aspire to be a pioneer in the responsible and ethical application of AI. Winning a Nobel Prize or Turing Award would be a recognition of my efforts to harness AI for the betterment of society. My feature sentence might read, "For groundbreaking work in applying AI to enhance fairness and transparency in judicial systems, revolutionizing how technology is leveraged for social justice." My ultimate goal is to contribute to a world where technology acts as a force for good, empowering, and uplifting humanity. By focusing on projects like this, I aim to pave the way for AI to be used responsibly, ensuring advancements in technology align with and advance human values and civilization.
  
 ## References
+
+### Data Source
+- ProPublica. (2016). COMPAS recidivism risk score data and analysis [Dataset]. ProPublica. https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis
+### Code Source 
+When doing data perturbation to generate sample perturbated data in the 'Data_Analysis.ipynb' file, The 'BasePerturbation' Class and 'NormalPerturbation' Class are adapted from the OpenXAI project. These classes are based on the implementation found at: https://raw.githubusercontent.com/AI4LIFE-GROUP/OpenXAI/main/openxai/explainers/perturbation_methods.py 
+- Reference: Agarwal, C., Krishna, S., Saxena, E., Pawelczyk, M., Johnson, N., Puri, I., Zitnik, M., & Lakkaraju, H. (2022). OpenXAI: Towards a Transparent Evaluation of Model Explanations. In Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track. Retrieved from https://openreview.net/forum?id=MU2495w47rz
+### Literature
 Literature References in APA Author-Date Style and BibTex
 - Arrieta, A. B., Díaz-Rodríguez, N., Del Ser, J., Bennetot, A., Tabik, S., Barbado, A., ... & Herrera, F. (2020). Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI. Information Fusion, 58, 82-115.
 
@@ -128,8 +135,6 @@ Literature References in APA Author-Date Style and BibTex
 - Han, 아라. (2023). 민사소송에서의 AI 알고리즘 심사. 민사소송, 27(1), 185-233.
 
 - Kroeger, N., Ley, D., Krishna, S., Agarwal, C., & Lakkaraju, H. (2023). Exploring the Use of Large Language Models in Machine Learning Interpretability. Journal of Machine Learning Research, 24(1), 567-588.
-
-- ProPublica. (2016). COMPAS recidivism risk score data and analysis [Dataset]. ProPublica. https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis
 
 - Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). "Why should I trust you?": Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1135-1144).
 
@@ -188,13 +193,6 @@ Literature References in APA Author-Date Style and BibTex
   number={1},
   pages={567-588},
   year={2023}
-}
-
-@misc{ProPublica2016,
-  title={COMPAS recidivism risk score data and analysis},
-  author={ProPublica},
-  year={2016},
-  url={https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis}
 }
 
 @inproceedings{Ribeiro2016,
