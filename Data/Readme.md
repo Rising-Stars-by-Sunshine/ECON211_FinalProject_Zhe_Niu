@@ -6,7 +6,7 @@ The dataset includes features such as age, prior count of crimes, length of stay
 
 # Data Processing and Enhancement
 
-## Scaling and Cleaning
+## Data Filtering and Feature Transformation
 - **Data Filtering:** The dataset has been filtered based on specific criteria such as days between screening arrest, recidivism status, and charge degree.
 - **Feature Transformation:** Categorical variables like race, sex, and charge degree have been transformed into dummy/indicator variables for analytical modeling.
 - **Missing Values:** The dataset has been checked for missing values to ensure data integrity and quality. No missing values were found.
