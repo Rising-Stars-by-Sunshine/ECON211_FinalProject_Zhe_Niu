@@ -25,17 +25,18 @@
 
   
 ## Table of Contents
+
 - [Literature](./Literature/)
 - [Method](./Method/)
 - [Data](./Data/)
-  -- [queried_data](./Data/queried_data)
-  -- [processed_data](./Data/processed_data)
+  - [queried_data](./Data/queried_data)
+  - [processed_data](./Data/processed_data)
 - [Code](./Code/)
-  -- [data_query](./Code/data_query)
-  -- [data_processing](./Code/data_processing)
-  -- [data_analysis](./Code/data_analysis)
+  - [data_query](./Code/data_query)
+  - [data_processing](./Code/data_processing)
+  - [data_analysis](./Code/data_analysis)
 - [Results](./Results/)
-  -- [Feature_Importance_Data](./Results/Feature_Importance_Data)
+  - [Feature_Importance_Data](./Results/Feature_Importance_Data)
 - [Spotlights](./Spotlights/)
 - [More About the Author](#More-About-the-Author)
 - [References](#References)
