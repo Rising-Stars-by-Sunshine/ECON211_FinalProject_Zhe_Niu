@@ -43,15 +43,48 @@
 
 ## Literature
 
+The `Literature` section of this project delves into three key literature streams that underpin the research on Explainable AI (XAI) in the context of bail classification with a focus on Large Language Models (LLMs). It covers:
+
+1. **Explainable AI in Judicial Decision-Making**: Examines methods for explaining black box models, focusing on post hoc techniques like LIME and SHAP, and their importance in judicial contexts.
+2. **Application of LLMs in Interpretability**: Explores the integration of LLMs with information retrieval systems and their role in enhancing ML interpretability.
+3. **Comparative Studies of Explanation Methods in ML**: Discusses the evaluation of ML explanation quality and compares various post hoc explanation methods, particularly in high-stakes domains.
+
 ## Method
+
+The `Method` section of this projectoutlines the methodology for utilizing Large Language Models (LLMs) in Explainable AI (XAI) within the context of judicial decision-making, particularly in bail classification. This section encompasses the entire research process, from the initial motivation and conceptual framework to the practical application scenarios, data processing, model training, explanation generation, and evaluation methods. It emphasizes the use of COMPAS dataset for machine learning model training and LLMs, like GPT-3.5 and GPT-4, for generating explanations. The methodology integrates various ML classifiers (Logistic Regression, SVM, Random Forest) and employs Perturbation-Based In-Context Learning (ICL) for explanation generation. The effectiveness of LLMs in providing interpretable and meaningful explanations is critically assessed through metrics like Feature Agreement (FA) and Rank Agreement (RA), comparing them against traditional post hoc methods like LIME and SHAP. This comprehensive methodological approach aims to enhance transparency and trust in ML decision-making in judicial systems, marking a significant advancement in the field of XAI.
 
 ## Data
 
+The `Data` section of this project comprehensively details the handling and structuring of a dataset comprising criminal records and demographic features of 18,876 defendants from U.S. state courts, spanning 1990 to 2009. Derived from the COMPAS recidivism algorithm analysis by ProPublica, this dataset is pivotal for classifying defendants based on bail eligibility. It includes critical features like age, prior crime count, length of stay, charge degree, sex, race, and risk assessment score. The dataset underwent meticulous processing, including filtering, transformation of categorical variables, and ensuring no missing values. It was also strategically split into training (4,937 rows) and testing sets (1,235 rows) for model evaluation. This section not only presents the dataset's structure and transformation but also highlights the importance of ethical considerations in algorithmic decision-making, particularly in assessing recidivism risk and addressing potential biases.
+
 ## Code
+
+The `Code` section of this project meticulously details the procedures implemented in the `Data_Query.ipynb`, `Data_Processing.ipynb`, and `Data_Analysis.ipynb` files for managing the COMPAS dataset. Starting with data querying, it involves downloading the dataset from a GitHub URL, initial data inspection, and exporting to a CSV file. The processing phase encompasses filtering criteria, calculating defendants' length of stay, transforming categorical variables, splitting the dataset, and performing exploratory data analysis with visualizations. In the data analysis phase, machine learning models (Logistic Regression, Random Forest, SVM) are implemented, and SHAP and LIME are used for model explanations. It also includes building evaluation metrics like Feature Agreement and Rank Agreement, creating perturbation samples for LLM explanations, and conducting a comparative analysis of results. This section provides a comprehensive overview of the end-to-end process, from data acquisition and preprocessing to advanced analysis and model evaluation, highlighting the project's rigorous and methodical approach to utilizing AI in judicial decision-making.
 
 ## Results
 
+The `Results` section presents a thorough analysis of the efficacy of Language Model-based (LLM) post hoc explainers, particularly LLM-GPT-3.5, in comparison to SHAP and LIME, using the COMPAS dataset. Focused on understanding LLMs' capability in generating post hoc explanations for bail classification decisions, the research employs Average Feature Agreement (FA) and Average Rank Agreement (RA) as primary metrics. The results, illustrated in figures 'Performance_Score.png' and 'Performance_Score_parameter.png', reveal the impact of sample size and top K features on explanation fidelity. Key findings include LLM-GPT-3.5's commendable accuracy in identifying important features, although it exhibits variability and lower reliability in ranking them compared to SHAP and LIME. The analysis answers two critical questions: LLMs show potential in providing accurate explanations but still require refinement for consistency and reliability. While LLMs demonstrate potential, especially with fewer top features, SHAP and LIME maintain superior performance in feature identification and ranking, confirming their robustness as post hoc explainers in the field of explainable AI.
+
 ## Spotlight
+
+### Project Poster
+![Poster](Econ211_Zhe_Niu_Poster.png)
+
+### Figure of Feature and Rank Agreement across SHAP, LIME, and LLM-GPT-3.5
+![Performance_Score](Performance_Score.png)
+
+### Figure of Parameters Impacting FA and RA
+![Performance_Score_parameter](Performance_Score_parameter.png)
+
+### Slides
+In the presentation, the poster is used as the slides to show my research process and results.
+
+### Presentations
+I have presented my research and the poster during the class. More research details could be found in this GitHub repository.
+
+### Review Articles
+
+
 
 ## More-About-the-Author
 
