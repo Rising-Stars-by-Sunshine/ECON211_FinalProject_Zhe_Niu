@@ -1,6 +1,6 @@
 # Data Description
 
-This dataset contains criminal records and demographic features for 18,876 defendants who were released on bail in U.S. state courts from 1990 to 2009. The dataset is derived from the COMPAS recidivism algorithm analysis conducted by ProPublica. The primary task is to classify defendants into two categories: bail (unlikely to commit a violent crime if released) and no bail (likely to commit a violent crime if released).
+This dataset contains criminal records and demographic features for 18,876 defendants who were released on bail in U.S. state courts from 1990 to 2009. The dataset is derived from the COMPAS recidivism algorithm analysis conducted by ProPublica （2016）. The primary task is to classify defendants into two categories: bail (unlikely to commit a violent crime if released) and no bail (likely to commit a violent crime if released).
 
 The dataset includes features such as age, prior count of crimes, length of stay, charge degree, sex, race, and a risk assessment score. The data highlights the challenge of predicting recidivism and raises important questions about fairness and bias in algorithmic decision-making.
 
